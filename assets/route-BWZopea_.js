@@ -1,0 +1,1 @@
+﻿import{r as e}from"./useRouter-gAVicOiH.js";import{tt as t}from"./index-B0BKZc6p.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

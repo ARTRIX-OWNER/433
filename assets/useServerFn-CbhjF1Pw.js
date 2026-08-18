@@ -1,0 +1,1 @@
+﻿import{a as e,t,u as n}from"./useRouter-gAVicOiH.js";import{t as r}from"./redirect-Dhm19zUi.js";var i=n(e(),1);function a(e){let n=t();return i.useCallback(async(...t)=>{try{let n=await e(...t);if(r(n))throw n;return n}catch(e){if(r(e))return e.options._fromLocation=n.stores.location.get(),n.navigate(n.resolveRedirect(e).options);throw e}},[n,e])}export{a as t};

@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "requestedUrl": "https://broker-qx.pro/sign-up/?lid=2146590",
+  "correctedUrl": "https://broker-qx.pro/sign-up/?lid=2146590",
+  "finalUrl": "https://qxbroker.com/sign-up/?lid=2146590",
+  "status": 403,
+  "statusText": "Forbidden",
+  "headers": {
+    "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+    "cf-mitigated": "challenge",
+    "cf-ray": "a2d05034188bfd9a-SIN",
+    "connection": "close",
+    "content-length": "5734",
+    "content-security-policy": "default-src 'none'; script-src 'nonce-Ef01ZZYHn7ymkeNZPOUZLS' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+    "content-type": "text/html; charset=UTF-8",
+    "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+    "cross-origin-embedder-policy": "require-corp",
+    "cross-origin-opener-policy": "same-origin",
+    "cross-origin-resource-policy": "same-origin",
+    "date": "Tue, 18 Aug 2026 10:42:41 GMT",
+    "origin-agent-cluster": "?1",
+    "permissions-policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
+    "referrer-policy": "same-origin",
+    "server": "cloudflare",
+    "server-timing": "chlray;desc=\"a2d05034188bfd9a\"",
+    "set-cookie": "__cf_bm=407S4EAhdSB5i3yJ4qywg.klLfJ5a5KHc6a2Ij1EfIM-1787049761.9360816-1.0.1.1-do8jjts.nJKCCuWA.wUEeb.yXNBgfg91dBe4a0vg1SurBcmSnwvlpn3p2P5SYibPmakl05q.POeGskVfMd3x5cxzuwHbnkO.KkFX_GjMsd840dSH30eInZxnfj.Wjktg; HttpOnly; SameSite=None; Secure; Path=/; Domain=qxbroker.com; Expires=Tue, 18 Aug 2026 11:12:41 GMT",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "metadata": {
+    "title": "Just a moment...",
+    "meta": {
+      "robots": "noindex,nofollow",
+      "viewport": "width=device-width,initial-scale=1"
+    }
+  },
+  "assets": {
+    "scripts": [],
+    "styles": [],
+    "images": [],
+    "links": [],
+    "icons": [],
+    "videos": [],
+    "audios": [],
+    "iframes": []
+  },
+  "sourceCode": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Ef01ZZYHn7ymkeNZPOUZLS&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Ef01ZZYHn7ymkeNZPOUZLS\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'N_kZtpgPK7TI3hN1H41vPRziT8GXxid_UNncyQf7HSw-1787049761-1.2.1.1-G0NuHkQ09d7vz_BxjktDMvl8TTAzLXe0GYfvulXFhgkVAKdQZLbtdebkFevy2mWH',cITimeS: '1787049761',cN: 'Ef01ZZYHn7ymkeNZPOUZLS',cRay: 'a2d05034188bfd9a',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/sign-up/?lid=2146590\\u0026__cf_chl_tk=FU0xMxbzNr0JNTKh8vLEpMJjbfEa.cegwfUAvyhtKFI-1787049761-1.0.1.1-2XTTEQBh7NfwRm9.rhr63AvdUz_KtYwlF3LtGREKrOE\",cvId: '3',cZone: 'qxbroker.com',fa:\"/sign-up/?lid=2146590\\u0026__cf_chl_f_tk=FU0xMxbzNr0JNTKh8vLEpMJjbfEa.cegwfUAvyhtKFI-1787049761-1.0.1.1-2XTTEQBh7NfwRm9.rhr63AvdUz_KtYwlF3LtGREKrOE\",md: 'AV_nFfLZVe15B6frrTPCXfQZNreKYddW1a5.Fvmaqa8-1787049761-1.2.1.1-zirqnYMPCbpCt71afAetnu03qvVU1iguCaRv7qURk2eVZ4XfAZhTixtL1eRGu1nAjt00mDZv_7ulZeCXLTEQdUUHIB2EyXlzJm65PDUsLqZ1GvG4dD4.y0RneC5Q6GlxforK0PPDJkVawm46N3_bNhs6QAXpOqpw7RLpHWifRG3dLI7dVOUbg1Si.lBJNz2ecjSNfmYPOojfDCVLryQBiOax_cdG5GNz9NXCJ5gasSfpZ0hze6wrOoylqoC9kg5bIZzJaxQfzMrTmbXiBwynLp9Sch47tEB0K9Jxac3iwJ1zZKdaR3K3t0nxe8b3efdl0P4FboA5KgERedBlFPjxqJJH7XgehI2SJjjgnMuc.ggGbqy3zhuISScIn6feAhpFd2D85k2IogtNLZ9XMfRTK8fCIdwts1tOq_PJesoYznR.YlkPGrTSRCUq9ZQg37M5SexhFbVD7IhLAWQvt7jSsEHrOdwKmGPjwpsodLFfQHBtDJ0Ji.y.yfOmMWeNnQeLHbm7kwWr85FDLxApANVWanmFX2Y9dqCXGCDQ2T1R13lBaODLu1kx6Cp74jneniuLOEly42w8ZY0vh9EBVUue_f_WacBzpu7XZXX7mPtfLYmnTUgyioQE1M8kIgLdeBULswslvpXhSClmuv_Ti30AWYaD1gXHZ4Ei6Q0nl4klyF8pg6aYM9Qg7AL6GgVU8.b4lNE71gYPrpSKfoAM6Y8F0sfDjDQevBhhE6REVD9qM60_qrMH1pD9NWkWoPVAVJC.t1kCUa.h6yPTn0icoZA8KDFZksEfTLYsoVHSbZvpnJ52IqVq02FqrNiYiGeXRV_MOstF0if1Hk.iz4V7a5foqGJlTrvHBU6fQFI6eSkxRD03zzAA4sSG8gHV08fcM9MF0uvfedKxOLpPg5ZPD6g6vUPgGkkmZlNQISPSmOmE1j_d55XH35MgBQ1fv3bJXPkTPw20539.CTMiMwhSJfUnOwUJ3vAAC4BHGXp_P6OLYh82_.B57.I0X7wdCVkF8jw0MoqXPsm75YcvCvT2igdfDPR6B260DUS7vV1FIEl.8sHm7kJdXmCAeOuZq034BtllU8vZ4tP3DOy0gvuXVZB_T_nd8veSpfWppwn03k2ZJWZMXepzJr4oDAKZDAdMkYDisFD._jePWmIcAHUiSMkydlA.36QnUkhgbdPJ6DmQzCw',mdrd: 'eEO9I58FcVIMfMd5cPOyKeXnzckzPjwMwsnIqLYI4UM-1787049761-1.2.1.1-K3cTvISSSgXbNlUuk2_h01GW4eKxtKesm8wjJVNbrlapiCDyOyLlm_XW6uyYRB56FEsKmJM47tc8kp7sOaw3laRlC2yiVXYQdP1RloI5sHhWkO2h9t8cje8QcyOp9PqO58UFdB_v12Jo2M3a2KgPeYTqsINBpLgoiHT_9iiNk7yEzWWuc9Siz_9Uw38vkfKbROS_OWRh6R6mcpyML1vMvjx7jxUt_Gt03P.TI2ws.hHzFR.R4AU7r8iO7LBfhRoC0P5gODmtB5XggzKLBA3ZDUN3XLeHcfJNTpgZ3bKCwo59K.OYIsvYN9gizMeTOiLvafuK7BkFpoK0COc6Q8a4vH_Z_xQhX4zV6alzJcUrv4etkNXUtyMD9M1qw68c1pbi6c2lcHRzRZ88x6m0JYNvrQ',};var a = document.createElement('script');a.nonce = 'Ef01ZZYHn7ymkeNZPOUZLS';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a2d05034188bfd9a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/sign-up/?lid=2146590\\u0026__cf_chl_rt_tk=FU0xMxbzNr0JNTKh8vLEpMJjbfEa.cegwfUAvyhtKFI-1787049761-1.0.1.1-2XTTEQBh7NfwRm9.rhr63AvdUz_KtYwlF3LtGREKrOE\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+}
